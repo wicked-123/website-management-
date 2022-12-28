@@ -1,0 +1,45 @@
+body{
+font-size:20px;
+font-weight:100%;
+font-style:bold;
+background-image:url('https://wallpaperaccess.com/full/656670.jpg');
+  height:100%;
+  background-repeat: no-repeat;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+}
+td
+{
+font-weight:100%;
+color:#003300;
+font-family:serif;
+}
+th
+{
+font-family:Lucida Calligraphy;
+font-weight:100%;
+color:#000066;
+font-size:25px;
+padding-top:10px;
+padding-bottom:30px;
+}
+input[type=text]
+{
+width:50%;
+padding:5px 50px;
+margin:5px 0;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+background-color:white;
+}
+input[type=button]
+{
+background-color:grey;
+width:30%;
+color:white;
+padding:4px 20px;
+margin:5px 0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}

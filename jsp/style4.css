@@ -1,0 +1,40 @@
+h1
+{
+color:aqua;
+font-size:50px;
+font-weight:100%;
+font-family:Lucida Calligraphy;
+}
+body
+{
+background:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);;
+}
+a:link {
+  color: #99ff99;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: lightpink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: lightblue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: mustard;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a
+{
+font-size:20px;
+font-variant:oblique;
+}
+td
+{
+padding-bottom:30px;
+}
